@@ -1,7 +1,7 @@
 # Hi, I'm Hammad! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Front-end+Developer;Creative Developer;React Developer" alt="Typing SVG" />
+  <img src="./assets/typing.svg" alt="Typing SVG" width="500" />
 </div>
 
 ## About Me
