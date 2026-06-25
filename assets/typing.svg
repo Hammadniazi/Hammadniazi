@@ -21,12 +21,12 @@
                     dur='6000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#2196F3' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#2196F3' font-size='16'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path0'>
-            Front-end Developer
+            Front-End Developer | React · TypeScript · Next.js
         </textPath>
     </text>
         <path id='path1'>
@@ -35,12 +35,12 @@
                     dur='6000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#2196F3' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#2196F3' font-size='16'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path1'>
-            Creative Developer
+            Front-End Developer | React · TypeScript · Next.js
         </textPath>
     </text>
         <path id='path2'>
@@ -49,12 +49,12 @@
                     dur='6000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h500 ; m0,25 h500 ; m0,25 h0' keyTimes='0;0.66666666666667;0.83333333333333;1' />
                     </path>
-    <text font-family='"Fira Code", monospace' fill='#2196F3' font-size='20'
+    <text font-family='"Fira Code", monospace' fill='#2196F3' font-size='16'
         dominant-baseline='middle'
         x='50%' text-anchor='middle'
         letter-spacing='normal'>
         <textPath xlink:href='#path2'>
-            React Developer
+            Front-End Developer | React · TypeScript · Next.js
         </textPath>
     </text>
 </svg>
