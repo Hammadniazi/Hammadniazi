@@ -4,6 +4,10 @@
   <img src="./assets/typing.svg" alt="Typing SVG" width="500" />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hammadniazi.Hammadniazi&left_color=blueviolet&right_color=blue" alt="Profile Views" />
+</div>
+
 ## About Me
 
 I'm a **Front-End Developer** and **Noroff School of Technology graduate** (Front-End Development, 2024–2026). I build responsive, accessible, and user-friendly web applications with a strong focus on clean UI and real-world functionality.
@@ -67,6 +71,22 @@ I'm a **Front-End Developer** and **Noroff School of Technology graduate** (Fron
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Interview Preparation Simulator</h3>
+      <p>Full-stack AI mock interview app. Generates role-specific questions, scores answers across 4 dimensions, and produces a personalised 30-day learning roadmap. Resume upload for tailored questions.</p>
+      <p><strong>Stack:</strong> Next.js · TypeScript · Tailwind CSS · Groq (LLaMA 3.3 70B) · Supabase</p>
+      <a href="https://interviews-preparation-simulater.vercel.app/">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/Hammadniazi/interview-preparation-simulater">📂 GitHub</a>
+    </td>
+    <td width="50%">
+      <h3>🧠 StudyGenie AI</h3>
+      <p>AI-powered study assistant built with Next.js and Supabase. Helps learners generate study plans, track progress, and get AI-driven explanations.</p>
+      <p><strong>Stack:</strong> Next.js · TypeScript · Supabase · AI Integration</p>
+      <a href="https://study-genie-ai-sage.vercel.app/">🔗 Live Demo</a> &nbsp;|&nbsp;
+      <a href="https://github.com/Hammadniazi/StudyGenie-AI">📂 GitHub</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3>🏨 Holidaze – Accommodation Booking App</h3>
