@@ -66,7 +66,7 @@ I'm a **Front-End Developer** and **Noroff School of Technology graduate** (Fron
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-412991?style=for-the-badge&logoColor=white)
 
-*Enrolled in Panaversity's Agentic AI Architect Programme (Level 1) — building AI-driven applications with Claude Code and OpenClaw.*
+_Shipped AI-powered full-stack apps — currently deepening expertise through Panaversity's Agentic AI Architect Programme._
 
 ## 🚀 Featured Projects
 
@@ -151,6 +151,6 @@ I'm a **Front-End Developer** and **Noroff School of Technology graduate** (Fron
 
 <div align="center">
 
-*Thanks for visiting! Let's build something amazing together!*
+_Thanks for visiting! Let's build something amazing together!_
 
 </div>
